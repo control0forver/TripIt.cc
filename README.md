@@ -1,2 +1,4 @@
 # TripIt.cc
-TripIt.cc CS2 Cheat
+### Part Source Code of TripIt.cc CS2 Cheat
+
+### C++ Standard: C++20
